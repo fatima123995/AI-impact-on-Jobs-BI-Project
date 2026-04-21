@@ -1,4 +1,5 @@
-AI Impact on Jobs – Power BI Dashboard
+AI Impact on Jobs (Power BI Dashboard)
+
 Overview
 This project explores the impact of Artificial Intelligence on employment patterns, focusing on how AI influences job modification, displacement, salary changes, and industry-level automation risk. The dashboard transforms workforce data into clear, actionable insights for understanding future job market dynamics.
 
